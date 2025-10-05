@@ -81,7 +81,6 @@ The model was successfully trained and shows significant improvement in:
 - Mathematical animation understanding
 - Instruction following accuracy
 
-See `05_results/TRAINING_RESULTS.md` for detailed analysis.
 
 ## File Descriptions
 
